@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - 🔭 I’m currently working as Fullstack JS Developer
-- 🌱 I’m currently learning about [Vue.js](https://vuejs.org/) and improve skills on UI/UX Design
+- 🌱 I’m currently learning about [Next.js](https://nextjs.org/) and improve skills on UI/UX Design
 - ⚡ Fun fact : Frontend development
 
 ![](https://komarev.com/ghpvc/?username=ainaerik&style=flat)
@@ -86,6 +86,9 @@
   </a>
   <a href="#" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vuejs" width="40" height="40"/>
+  </a>
+   <a href="#" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" alt="nextjs" width="40" height="40"/>
   </a>
 </p>
 
